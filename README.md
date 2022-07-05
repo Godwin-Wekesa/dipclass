@@ -1,2 +1,2 @@
 # dipclass
-My name is Godwin am software developer
+My name is Godwin am a software developer
